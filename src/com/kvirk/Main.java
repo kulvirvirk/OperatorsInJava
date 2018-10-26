@@ -59,7 +59,16 @@ public class Main {
         System.out.println("-----------------------\n");
         //============================================
 
-        
+        // we are  using a && comparision operator to compare the logic in if-else statement
+        // note:
+        System.out.println("Logical operator example (&& operator)");
+        int someNumber3 = 5;
+        int someNumber4 = 10;
+        if(someNumber3 < someNumber4 && someNumber3 > 4 ){
+            System.out.println("Comparision works!");
+        }
+        System.out.println("-----------------------\n");
+        //============================================
 
 
     }
