@@ -11,3 +11,5 @@ Fourth section in code shows an example is of -- operator.
 
 Fifth seciton in code shows an example of Logical operator == (comparision operator).
 
+Sixth seciton in code shows an example of Logical operator && (AND operator).
+
