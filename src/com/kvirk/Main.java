@@ -48,5 +48,19 @@ public class Main {
         System.out.println("-----------------------\n");
         //============================================
 
+        // use of conditional operator, see exmaple below
+        // we are  using a == comparision operator to compare the logic in if-else statement
+        // note: == is for comparision; = is for assignment
+        System.out.println("Logical operator example (== is comparision operator)");
+        Boolean isTrue = true;
+        if(isTrue == true){
+            System.out.println("True");
+        }
+        System.out.println("-----------------------\n");
+        //============================================
+
+        
+
+
     }
 }
